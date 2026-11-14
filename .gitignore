@@ -1,0 +1,11 @@
+.venv/
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.env
+**/data/*
+!**/data/.gitkeep
+**/outputs/*
+**/models/*.pt
+**/.streamlit/secrets.toml
+.DS_Store

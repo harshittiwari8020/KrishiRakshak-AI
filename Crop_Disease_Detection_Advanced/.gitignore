@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+venv/
+.env
+data/*
+!data/.gitkeep
+outputs/*
+models/*.pt
+.streamlit/
+.DS_Store
